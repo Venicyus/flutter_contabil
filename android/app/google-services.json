@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "494170028105",
+    "firebase_url": "https://contabil-sm.firebaseio.com",
+    "project_id": "contabil-sm",
+    "storage_bucket": "contabil-sm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494170028105:android:04a5529953788aa578e798",
+        "android_client_info": {
+          "package_name": "com.screenmaster.contabil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494170028105-v7e669spu4jpkbsf5jg9uphsd8r31d25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPNfTPFUliGfWYkM-gKEWCyEPMXkmg5OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494170028105-v7e669spu4jpkbsf5jg9uphsd8r31d25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
